@@ -1,0 +1,6 @@
+streamlit==1.32.0
+pandas>=2.0.0
+openai>=1.14.0
+chromadb>=0.4.24
+sentence-transformers>=2.5.0
+python-dotenv>=1.0.1
