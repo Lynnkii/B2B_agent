@@ -1,6 +1,4 @@
 # B2B_agent
-# 🤖 B2B AI Sales Co-Pilot (跨境智能商机大模型引擎)
-
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B)
 ![ChromaDB](https://img.shields.io/badge/VectorDB-Chroma-13C2C2)
